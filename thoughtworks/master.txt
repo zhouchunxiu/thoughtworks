@@ -1,2 +1,2 @@
 It is master.txt
-I have changed this.
+I have changed this twice.
